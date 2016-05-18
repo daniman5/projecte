@@ -53,5 +53,4 @@ echo "<br/>";
 echo "dn";
 echo "<br/>";
 print_r($entrades[0]['dn']);
-print_r($entrades[0]['dn']);
 ?>
